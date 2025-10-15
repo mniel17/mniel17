@@ -1,5 +1,5 @@
 <h1>Hi, I'm Matt! I'm an aspiring mechanical engineer and entrepreneur! <br/><a  <a href="https://www.linkedin.com/in/matt-nielsen03/">LinkedIn</a>
-<h2>Resume:</h2> <a href="https://github.com/mniel17/mniel17/main/resume.pdf"> Matt's Resume (Updated October 2025)</a>
+<h2>Resume:</h2> <a href="https://github.com/mniel17/mniel17/blob/main/resume.pdf"> Matt's Resume (Updated October 2025)</a>
 <h3>Projects:</h3>
 
 - <b>CAD</b>
