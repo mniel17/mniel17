@@ -3,7 +3,7 @@
 <h3>Projects:</h3>
 
 - <b>CAD</b>
-  - [CAD Portfolio](https://github.com/mniel17/mniel17_CAD_Portfolio.pdf)
+  - [CAD Portfolio](https://github.com/mniel17/mniel17/blob/main/mniel17_CAD_Portfolio.pdf)
 <!--
 **
 - <b>Python</b>
